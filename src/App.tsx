@@ -151,8 +151,6 @@ function App() {
   return (
     <div>
       <header class="sticky top-0 z-50"></header>
-      <main class=relative></main>
-      <footer></footer>
     </div>
     <div className="py-8 max-w-7xl mx-auto sm:px-6 lg:px-8">
       <div className="flex w-80 mx-auto items-center mb-8 mt-12">
