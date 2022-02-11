@@ -150,8 +150,8 @@ function App() {
 
   return (
     <div className="py-8 max-w-7xl mx-auto sm:px-6 lg:px-8">
-    <nav class="flex items-center justify-between flex-wrap bg-teal-500 p-6">
-      <div class="flex items-center flex-shrink-0 text-white mr-6">
+    <nav className="flex items-center justify-between flex-wrap bg-teal-500 p-6">
+      <div className="flex items-center flex-shrink-0 text-white mr-6">
         <img src="https://www.thisisbarry.com/wp-content/uploads/SiteFiles/this-is-barry-logo-colour.png" alt="..." className="shadow rounded max-w-full h-auto align-middle border-none" />
       </div>
     </nav>
