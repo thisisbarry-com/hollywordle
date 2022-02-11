@@ -149,8 +149,10 @@ function App() {
   }
 
   return (
-    <div class="mb-4">
-      <img src="https://www.thisisbarry.com/wp-content/uploads/SiteFiles/this-is-barry-logo-colour.png" class="max-w-full h-auto rounded-full" alt="">
+    <div className="flex flex-wrap justify-center">
+      <div className="w-6/12 sm:w-4/12 px-4">
+        <img src="https://www.thisisbarry.com/wp-content/uploads/SiteFiles/this-is-barry-logo-colour.png" alt="..." className="shadow rounded max-w-full h-auto align-middle border-none" />
+      </div>
     </div>
     <div className="py-8 max-w-7xl mx-auto sm:px-6 lg:px-8">
       <div className="flex w-80 mx-auto items-center mb-8 mt-12">
