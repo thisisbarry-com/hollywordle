@@ -149,6 +149,9 @@ function App() {
   }
 
   return (
+    <div class="mb-4">
+      <img src="https://www.thisisbarry.com/wp-content/uploads/SiteFiles/this-is-barry-logo-colour.png" class="max-w-full h-auto rounded-full" alt="">
+    </div>
     <div className="py-8 max-w-7xl mx-auto sm:px-6 lg:px-8">
       <div className="flex w-80 mx-auto items-center mb-8 mt-12">
         <h1 className="text-xl ml-2.5 grow font-bold dark:text-white">{GAME_TITLE}</h1>
