@@ -150,14 +150,10 @@ function App() {
 
   return (
     <div className="py-8 max-w-7xl mx-auto sm:px-6 lg:px-8">
-    <nav className="flex items-center justify-between flex-wrap bg-teal-500 p-6">
-      <div className="flex items-center flex-shrink-0 text-white mr-6">
-        <img src="https://www.thisisbarry.com/wp-content/uploads/SiteFiles/this-is-barry-logo-colour.png" alt="..." className="shadow rounded max-w-full h-auto align-middle border-none" />
-      </div>
-    </nav>
     <div className="flex flex-wrap justify-center">
       <div className="w-6/12 sm:w-4/12 px-4">
         <img src="https://www.thisisbarry.com/wp-content/uploads/SiteFiles/this-is-barry-logo-colour.png" alt="..." className="shadow rounded max-w-full h-auto align-middle border-none" />
+	<p>Films Explained</p>
       </div>
     </div>
       <div className="flex w-80 mx-auto items-center mb-8 mt-12">
