@@ -1,4 +1,5 @@
 export const GAME_TITLE = 'Hollywood Wordle'
+export const GAME_URL = 'https://hollywordle.thisisbarry.com/'
 
 export const WIN_MESSAGES = ['Bongo!', 'Awesome', 'Skadoosh!']
 export const GAME_COPIED_MESSAGE = 'Game copied to clipboard'
