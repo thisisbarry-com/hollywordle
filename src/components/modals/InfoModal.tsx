@@ -14,7 +14,7 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
         <li>- Each guess must be a valid 5 letter word or movie name. E.g. "LOCKE" is a valid guess.</li>
         <li>- Hit the enter button to submit.</li>
         <li>- After each guess, the color of the tiles will change to show how close your guess was to the name.</li>
-        <li>- Just like Wordle, each day a new movie show itself.</li>
+        <li>- Just like Wordle, each day a new movie will show itself.</li>
       </ul>
 
       <div className="flex justify-center mb-1 mt-4">
