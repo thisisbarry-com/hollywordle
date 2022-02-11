@@ -156,7 +156,7 @@ function App() {
 	<a href="https://www.thisisbarry.com/" className="text-center text-teal-700 no-underline hover:underline block">Films Explained</a>
       </div>
     </div>
-      <div className="flex w-80 mx-auto items-center mb-8 mt-12">
+      <div className="flex w-80 mx-auto items-center mb-4 mt-8">
         <h1 className="text-xl ml-2.5 grow font-bold dark:text-white">{GAME_TITLE}</h1>
         <SunIcon
           className="h-6 w-6 mr-2 cursor-pointer dark:stroke-white"
