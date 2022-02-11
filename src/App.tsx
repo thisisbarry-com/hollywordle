@@ -153,7 +153,7 @@ function App() {
     <div className="flex flex-wrap justify-center">
       <div className="w-6/12 sm:w-4/12 px-4">
         <a href="https://www.thisisbarry.com/"><img src="https://www.thisisbarry.com/wp-content/uploads/SiteFiles/this-is-barry-logo-colour.png" alt="..." className="rounded max-w-full h-auto align-middle border-none"/></a>
-	<p>Films Explained</p>
+	<a href="https://www.thisisbarry.com/" className="text-teal-700 no-underline hover:underline ...">Films Explained</a>
       </div>
     </div>
       <div className="flex w-80 mx-auto items-center mb-8 mt-12">
