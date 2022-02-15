@@ -1,7 +1,7 @@
 export const GAME_TITLE = 'Hollywood Wordle'
 export const GAME_URL = 'https://hollywordle.thisisbarry.com/'
 
-export const WIN_MESSAGES = ['Bongo!', 'Awesome', 'Skadoosh!']
+export const WIN_MESSAGES = ['Bingo!', 'Awesome', 'Skadoosh!']
 export const GAME_COPIED_MESSAGE = 'Game copied to clipboard'
 export const ABOUT_GAME_MESSAGE = 'About this game'
 export const NOT_ENOUGH_LETTERS_MESSAGE = 'Not enough letters'
